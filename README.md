@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Sejam bem vindos ao meu mundo da programação!
-![Gif do viajante]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats))
+![Gif do viajante](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 -------------------------
 

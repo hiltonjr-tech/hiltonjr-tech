@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ## Sejam bem vindos ao meu mundo da programação!
-![Gif do viajante](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Gif do viajante](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxH9r7VQx8MjkD4g2vG7ixCvSbjmMtmfiiA&s)
 
 -------------------------
 
@@ -29,7 +30,7 @@ Graduate in systems analysis and development, graduate in Business, MBA in Tax P
 
 ![Hilton Jr GitHub stats](https://github-readme-stats.vercel.app/api?username=hiltonjr-tech&show_icons=true&theme=radical)
 
-![Hilton Jr langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Hilton Jr langs][def]](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -52,3 +53,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[def]: https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact

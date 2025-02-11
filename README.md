@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Sejam bem vindos ao meu mundo da programação!
+## Welcome to my world of programming!
 
 ![Gif do viajante](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxH9r7VQx8MjkD4g2vG7ixCvSbjmMtmfiiA&s)
 

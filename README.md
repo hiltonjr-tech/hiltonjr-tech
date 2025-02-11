@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Sejam bem vindos ao meu mundo da programação!
-![Gif do viajante](https://www.google.com.br/imgres?q=gif%20viajante&imgurl=https%3A%2F%2F64.media.tumblr.com%2Ff64ad9fe7424a03abe65d52d7839b4c3%2Ftumblr_nsjekpdzSr1s2wio8o1_500.gif&imgrefurl=https%3A%2F%2Fwww.voyaju.com.br%2Fpost%2F132022381959%2Fviajante-ou-sacoleiro&docid=-pFI5OTyGTlOvM&tbnid=agkKQ7vNFAfOgM&vet=12ahUKEwjYqLWN4buLAxWvK7kGHaVWAEwQM3oECGIQAA..i&w=500&h=425&hcb=2&ved=2ahUKEwjYqLWN4buLAxWvK7kGHaVWAEwQM3oECGIQAA)
+![Gif do viajante]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats))
 
 -------------------------
 

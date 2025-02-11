@@ -30,7 +30,7 @@ Graduate in systems analysis and development, graduate in Business, MBA in Tax P
 
 ![Hilton Jr GitHub stats](https://github-readme-stats.vercel.app/api?username=hiltonjr-tech&show_icons=true&theme=radical)
 
-![Hilton Jr](https://github.com/hiltonjr-tech/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiltonjr-tech&layout=compact)](https://github.com/hiltonjr-tech/github-readme-stats)
 
 
 
